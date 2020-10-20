@@ -1,23 +1,23 @@
 {
-  "store_id": 1172,
-  "name": "suacapa",
-  "domain": "suacapa.netlify.app",
-  "short_name": "suacapa",
-  "description": "suacapa",
+  "domain": "criecapas.com",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Crie Capas",
+  "short_name": "Crie Capas",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1172,
+  "description": "Crie suas próprias capas para telefones iPhone, Samsung e Motorola. Personalize com texto, fotos, padrões e muito mais.",
+  "large_icon": "/img/large-icon.png"
 }
