@@ -1,5 +1,5 @@
 {
-  "css": ".ecom-credits {\n    display: none !important;\n    padding: 1.5rem;\n    background: #fff;\n    text-align: center;\n    font-size: .85rem;\n    color: #37003c;\n}",
+  "css": ".ecom-credits {\n    display: none;\n    padding: 1.5rem;\n    background: #fff;\n    text-align: center;\n    font-size: .85rem;\n    color: #37003c;\n}",
   "html_head": "",
   "html_body": ""
 }
