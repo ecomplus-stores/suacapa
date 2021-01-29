@@ -13,11 +13,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/crie-capas-principal.png",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/crie-capas-app.png",
   "store_id": 1172,
   "description": "Crie suas próprias capas para telefones iPhone, Samsung e Motorola. Personalize com texto, fotos, padrões e muito mais.",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/crie-capas-principal.png"
 }
