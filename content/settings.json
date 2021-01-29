@@ -1,7 +1,7 @@
 {
   "domain": "criecapas.com",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#2a808c",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/crie-capas-principal.png",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#00a8c0",
   "icon": "/img/uploads/crie-capas-app.png",
   "store_id": 1172,
   "description": "Crie suas próprias capas para telefones iPhone, Samsung e Motorola. Personalize com texto, fotos, padrões e muito mais.",
