@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#2a808c",
   "theme": {
-    "bootswatch": "solar",
-    "custom": "clean-white"
+    "bootswatch": "_",
+    "custom": "_"
   },
-  "bg_color": "#6a6766",
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/crie-capas-principal.png",
   "name": "Crie Capas",
   "short_name": "Crie Capas",
