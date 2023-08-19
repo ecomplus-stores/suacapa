@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0fd080a7eb36b4c7c4a99d6935cc1e67.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.29c680fb436cda376abfb3e7bec0e59f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f12e5d3b4c6f576fc97d05671b358e59.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0f13d905b7a19c89f034053c4350b05a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.e30c42582178e48ff73b6292a48afe46.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Crie Capas",
+  "short_name": "Crie Capas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Crie suas próprias capas para telefones iPhone, Samsung e Motorola. Personalize com texto, fotos, padrões e muito mais.",
+  "background_color": "#ffffff",
+  "theme_color": "#2a808c"
+}
